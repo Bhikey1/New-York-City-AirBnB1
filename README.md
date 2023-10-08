@@ -1,1 +1,2 @@
-# New-York-City-AirBnB1
+Airbnb, Inc. is an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences. The company acts as a broker and charges a commission from each booking.
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019. The tasks are what can we learn about different areas, what can we learn from predictions (ex: locations and prices, locations and reviews), which areas are the busiest and why, Is there any noticeable difference of traffic among different areas and what could be the reason for it?
