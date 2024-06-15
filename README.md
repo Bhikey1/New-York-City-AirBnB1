@@ -17,4 +17,4 @@ places in New York City, which might be the reason why they are the busiest amon
 
 
 Data source: [kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
-Data visualization: [Tableau]8https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/NewYorkCityAirBnB_16967239353260/AirBnBNYC?publish=yes) 
+Data visualization: [Tableau](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/NewYorkCityAirBnB_16967239353260/AirBnBNYC?publish=yes) 
