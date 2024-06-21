@@ -19,7 +19,7 @@ and Bronx. It is home to many parks and museums. It can be concluded that the bu
 places in New York City, which might be the reason why they are the busiest among the others.
 
 ### Data Visualization
-![New York City AirBnB Data Visualization](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/NewYorkCityAirBnB_16967239353260/AirBnBNYC.png)
+![New York City AirBnB Data Visualization](/assets/images/AirBnBNYC.png)
 
 
 Data source: [kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
